@@ -1,0 +1,1011 @@
+﻿  Source.cpp
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(49,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(50,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(51,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(52,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(73,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(76,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(79,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(81,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(82,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(83,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(84,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(97,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(101,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(103,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(104,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(105,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(106,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(109,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(110,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(111,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(112,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(128,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(131,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(134,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(136,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(137,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(138,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(139,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(149,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(153,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(155,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(156,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(157,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(158,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(161,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(162,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(163,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(164,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(180,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(183,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(186,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(188,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(189,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(190,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(191,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(201,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(205,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(207,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(208,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(209,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(210,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(213,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(214,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(215,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(216,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(232,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(235,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(238,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(240,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(241,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(242,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(243,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(253,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(257,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(259,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(260,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(261,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(262,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(265,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(266,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(267,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(268,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(663,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(664,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(665,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(666,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(671,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(672,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(673,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(674,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(679,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(680,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(681,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(682,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(687,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(688,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(689,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(690,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(695,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(696,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(697,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(698,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(703,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(704,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(705,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(706,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(711,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(712,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(713,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(714,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(719,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(720,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(721,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(722,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(727,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(728,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(729,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(730,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(735,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(736,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(737,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(738,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(745,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(746,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(747,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(748,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(753,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(754,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(755,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(756,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(761,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(762,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(763,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(764,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(769,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(770,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(771,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(772,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(777,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(778,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(779,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(780,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(785,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(786,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(787,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(788,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(793,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(794,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(795,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(796,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(801,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(802,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(803,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(804,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(809,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(810,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(811,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(812,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(817,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(818,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(819,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(820,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(827,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(828,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(829,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(830,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(835,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(836,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(837,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(838,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(843,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(844,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(845,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(846,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(851,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(852,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(853,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(854,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(859,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(860,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(861,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(862,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(867,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(868,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(869,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(870,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(875,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(876,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(877,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(878,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(883,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(884,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(885,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(886,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(891,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(892,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(893,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(894,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(899,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(900,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(901,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(902,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(909,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(910,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(911,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(912,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(917,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(918,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(919,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(920,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(925,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(926,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(927,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(928,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(933,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(934,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(935,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(936,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(941,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(942,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(943,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(944,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(949,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(950,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(951,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(952,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(957,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(958,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(959,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(960,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(965,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(966,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(967,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(968,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(973,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(974,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(975,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(976,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(981,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(982,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(983,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(984,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1518,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1519,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1520,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1521,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1527,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1528,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1529,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1530,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1535,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1536,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1537,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1538,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1543,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1544,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1545,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1546,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1552,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1553,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1554,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1555,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1560,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1561,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1562,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1563,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1568,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1569,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1570,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(1571,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2166,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2166,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2166,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2167,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2168,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2169,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2170,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2175,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2175,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2175,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2176,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2177,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2178,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2179,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2183,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2183,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2183,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2184,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2185,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2186,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2187,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2188,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2189,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2190,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2191,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2195,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2195,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2195,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2196,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2197,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2198,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2199,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2200,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2201,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2202,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2203,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2206,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2206,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2206,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2208,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2209,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2210,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2211,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2212,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2213,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2214,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2215,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2219,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2219,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2219,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2220,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2221,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2222,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2223,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2224,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2225,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2226,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2227,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2238,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2238,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2238,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2239,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2240,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2241,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2242,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2247,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2247,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2247,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2248,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2249,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2250,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2251,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2255,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2255,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2255,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2256,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2257,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2258,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2259,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2260,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2261,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2262,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2263,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2267,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2267,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2267,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2268,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2269,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2270,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2271,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2272,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2273,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2274,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2275,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2278,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2278,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2278,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2280,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2281,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2282,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2283,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2284,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2285,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2286,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2287,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2291,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2291,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2291,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2292,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2293,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2294,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2295,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2296,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2297,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2298,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2299,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2308,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2308,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2308,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2309,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2310,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2311,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2312,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2317,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2317,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2317,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2318,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2319,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2320,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2321,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2325,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2325,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2325,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2326,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2327,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2328,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2329,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2330,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2331,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2332,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2333,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2337,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2337,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2337,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2338,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2339,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2340,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2341,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2342,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2343,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2344,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2345,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2348,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2348,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2348,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2350,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2351,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2352,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2353,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2354,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2355,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2356,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2357,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2361,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2361,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2361,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2362,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2363,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2364,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2365,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2366,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2367,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2368,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2369,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2376,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2376,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2376,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2377,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2378,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2379,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2380,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2385,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2385,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2385,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2386,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2387,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2388,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2389,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2393,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2393,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2393,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2394,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2395,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2396,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2397,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2398,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2399,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2400,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2401,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2405,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2405,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2405,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2406,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2407,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2408,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2409,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2410,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2411,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2412,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2413,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2416,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2416,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2416,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2418,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2419,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2420,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2421,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2422,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2423,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2424,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2425,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2429,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2429,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2429,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2430,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2431,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2432,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2433,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2434,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2435,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2436,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2437,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2445,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2445,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2445,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2446,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2447,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2448,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2449,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2454,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2454,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2454,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2455,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2456,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2457,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2458,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2462,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2462,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2462,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2463,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2464,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2465,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2466,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2467,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2468,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2469,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2470,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2474,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2474,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2474,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2475,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2476,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2477,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2478,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2479,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2480,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2481,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2482,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2485,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2485,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2485,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2487,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2488,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2489,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2490,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2491,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2492,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2493,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2494,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2498,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2498,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2498,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2499,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2500,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2501,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2502,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2503,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2504,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2505,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2506,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2513,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2513,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2513,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2514,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2515,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2516,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2517,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2522,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2522,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2522,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2523,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2524,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2525,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2526,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2530,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2530,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2530,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2531,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2532,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2533,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2534,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2535,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2536,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2537,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2538,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2542,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2542,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2542,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2543,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2544,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2545,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2546,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2547,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2548,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2549,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2550,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2553,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2553,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2553,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2555,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2556,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2557,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2558,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2559,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2560,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2561,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2562,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2566,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2566,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2566,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2567,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2568,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2569,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2570,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2571,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2572,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2573,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2574,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2582,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2582,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2582,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2583,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2584,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2585,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2586,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2591,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2591,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2591,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2592,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2593,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2594,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2595,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2599,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2599,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2599,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2600,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2601,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2602,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2603,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2604,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2605,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2606,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2607,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2611,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2611,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2611,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2612,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2613,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2614,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2615,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2616,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2617,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2618,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2619,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2622,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2622,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2622,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2624,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2625,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2626,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2627,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2628,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2629,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2630,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2631,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2635,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2635,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2635,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2636,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2637,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2638,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2639,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2640,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2641,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2642,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2643,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2650,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2650,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2650,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2651,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2652,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2653,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2654,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2659,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2659,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2659,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2660,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2661,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2662,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2663,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2667,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2667,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2667,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2668,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2669,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2670,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2671,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2672,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2673,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2674,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2675,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2679,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2679,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2679,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2680,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2681,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2682,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2683,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2684,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2685,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2686,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2687,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2690,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2690,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2690,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2692,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2693,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2694,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2695,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2696,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2697,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2698,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2699,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2703,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2703,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2703,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2704,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2705,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2706,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2707,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2708,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2709,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2710,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2711,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2718,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2718,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2718,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2719,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2720,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2721,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2722,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2727,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2727,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2727,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2728,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2729,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2730,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2731,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2735,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2735,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2735,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2736,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2737,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2738,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2739,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2740,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2741,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2742,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2743,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2747,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2747,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2747,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2748,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2749,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2750,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2751,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2752,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2753,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2754,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2755,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2758,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2758,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2758,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2760,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2761,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2762,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2763,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2764,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2765,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2766,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2767,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2771,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2771,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2771,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2772,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2773,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2774,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2775,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2776,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2777,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2778,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2779,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2787,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2787,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2787,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2788,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2789,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2790,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2791,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2796,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2796,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2796,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2797,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2798,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2799,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2800,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2804,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2804,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2804,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2805,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2806,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2807,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2808,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2809,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2810,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2811,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2812,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2816,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2816,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2816,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2817,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2818,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2819,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2820,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2821,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2822,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2823,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2824,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2827,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2827,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2827,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2829,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2830,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2831,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2832,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2833,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2834,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2835,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2836,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2840,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2840,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2840,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2841,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2842,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2843,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2844,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2845,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2846,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2847,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2848,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2855,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2855,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2855,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2856,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2857,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2858,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2859,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2864,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2864,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2864,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2865,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2866,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2867,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2868,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2872,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2872,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2872,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2873,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2874,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2875,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2876,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2877,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2878,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2879,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2880,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2884,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2884,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2884,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2885,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2886,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2887,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2888,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2889,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2890,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2891,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2892,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2895,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2895,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2895,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2897,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2898,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2899,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2900,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2901,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2902,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2903,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2904,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2908,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2908,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2908,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2909,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2910,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2911,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2912,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2913,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2914,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2915,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2916,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2925,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2925,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2925,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2926,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2927,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2928,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2929,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2934,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2934,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2934,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2935,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2936,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2937,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2938,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2942,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2942,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2942,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2943,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2944,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2945,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2946,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2947,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2948,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2949,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2950,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2954,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2954,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2954,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2955,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2956,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2957,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2958,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2959,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2960,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2961,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2962,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2965,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2965,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2965,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2967,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2968,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2969,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2970,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2971,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2972,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2973,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2974,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2978,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2978,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2978,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2979,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2980,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2981,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2982,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2983,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2984,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2985,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2986,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2996,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2996,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(2996,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3004,28): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3004,22): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3004,16): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3257,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3260,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3265,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3265,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3266,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3268,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3273,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3273,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3274,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3274,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3275,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3276,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3283,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3286,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3291,21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3291,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3292,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3294,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3299,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3299,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3300,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3300,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3301,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3302,19): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3309,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3312,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3317,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3317,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3318,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3320,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3325,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3325,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3326,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3326,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3327,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3328,20): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3335,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3336,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3343,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3344,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3345,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\source\repos\TR asdos\TR asdos\Source.cpp(3346,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  0 of 9 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TR asdos.vcxproj -> C:\Users\Owner\source\repos\TR asdos\x64\Release\TR asdos.exe
